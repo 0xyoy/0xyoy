@@ -33,15 +33,36 @@ c++&nbsp; &nbsp; &nbsp; &nbsp; vhdl&nbsp; &nbsp; &nbsp; &nbsp;     math+algorith
 <p>
 <p align="center">
 　　　ﾟ .　　　　　　　　　　　　　.
+<p>
+<p align="center">
 　　　　　　　　　　　　　　　✦ 　　　　　,　　　　　　　
+<p>
+<p align="center">
 .⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀　　　　　　*　　　　　
+<p>
+<p align="center">
 　　　　　　..　　　　　　　　　　　　　. 　　✦⠀　  
+<p>
+<p align="center">
  　　　,　　　　　　　　　*　　　　　⠀　　　　⠀　　,⠀
+<p>
+<p align="center">
 ⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀.　　　　　 　　⠀　　　⠀.　 
+<p>
+<p align="center">
 ˚　　　⠀　⠀  　　,　　　　　　.　　　　　　　　　　　
+<p>
+<p align="center">
 　　.　　　　　　*⠀　　⠀  　　　　　⠀✦⠀　　　　　　
+<p>
+<p align="center">
 　*　　　　　　　　　　　　　　　　　　.　　　　.　　　　
+<p>
+<p align="center">
 .　　　⠀　　　　　　　　　　　.　　　　　　　　　　˚　　
+<p>
+<p align="center">
 　　　　　　ﾟ　　　　　.　.             ,
 <p>
+
 
