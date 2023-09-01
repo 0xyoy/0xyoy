@@ -1,42 +1,39 @@
 <p align="center">
-⠀⠀⠀⠀⠀.　　　　　　　　　　⠀⠀⠀✦&nbsp;⠀&nbsp;⠀　　　　　　　　　　　　　　⠀⠀⠀⠀⠀*&nbsp;⠀⠀⠀
+&nbsp;&nbsp;⭒⊹&nbsp;&nbsp;₊&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₊&nbsp;₊⋆&nbsp;‧˚₊&nbsp;&nbsp;&nbsp;˚&nbsp;&nbsp;&nbsp;⊹&nbsp;&nbsp;₊&nbsp;&nbsp;⋆&nbsp;°₊&nbsp;&nbsp;&nbsp;⋆‧&nbsp;&nbsp;₊&nbsp;&nbsp;&nbsp;
 <p>
 <p align="center">
-.　　　　　　　　　　.&nbsp;⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀✦⠀⠀⠀&nbsp;⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+&nbsp;&nbsp;&nbsp;₊&nbsp;⭒˚&nbsp;₊&nbsp;⭒⭒&nbsp;°&nbsp;˚❀&nbsp;⊹&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⋆&nbsp;&nbsp;˚&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭒&nbsp;&nbsp;⊹⋆&nbsp;
 <p>
 <p align="center">
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀&nbsp;⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀&nbsp;⠀
+&nbsp;&nbsp;⊹&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❀⭒⭒&nbsp;❀&nbsp;&nbsp;&nbsp;⋆&nbsp;⋆&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊹&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⊹⭒&nbsp;⊹˚&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‧˚⋆
 <p>
 <p align="center">
-&nbsp;⠀⠀⠀⠀⠀⠀.　　　　　　　　　　　　　.　　　ﾟ&nbsp;.　　　　　　　　　　　　　.&nbsp;　　　　　
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;˚&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₊‧&nbsp;&nbsp;computer&nbsp;wizardess&nbsp;&nbsp;&nbsp;˚°&nbsp;&nbsp;&nbsp;°&nbsp;&nbsp;‧&nbsp;˚⊹
 <p>
 <p align="center">
-　　　　　　　　　　✦&nbsp;　　　computer&nbsp;wizardess　　,　　　　　　　.⠀⠀⠀⠀
+❀&nbsp;&nbsp;&nbsp;&nbsp;˚❀&nbsp;&nbsp;&nbsp;｡･ﾟﾟ･&nbsp;lambda&nbsp;princess&nbsp;･ﾟﾟ･｡˚°₊&nbsp;&nbsp;₊⊹&nbsp;⋆&nbsp;
 <p>
 <p align="center">
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀｡･ﾟﾟ･&nbsp;lambda&nbsp;princess&nbsp;･ﾟﾟ･｡⠀⠀⠀　　　　　　*
+❀&nbsp;&nbsp;‧&nbsp;˚₊&nbsp;❀&nbsp;&nbsp;&nbsp;&nbsp;.𖥔&nbsp;݁&nbsp;˖&nbsp;versed&nbsp;in:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⋆&nbsp;&nbsp;˚&nbsp;˚&nbsp;&nbsp;&nbsp;❀
 <p>
 <p align="center">
-　　　　　　　　　　　...𖥔&nbsp;݁&nbsp;˖&nbsp;versed&nbsp;in:&nbsp;&nbsp;&nbsp;&nbsp;　　　　　　　　　　　　　
+&nbsp;❀❀&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;˚&nbsp;&nbsp;&nbsp;°&nbsp;&nbsp;c&nbsp;&nbsp;&nbsp;&nbsp;python₊‧‧&nbsp;⋆&nbsp;&nbsp;⋆&nbsp;˚₊&nbsp;⋆&nbsp;&nbsp;⋆&nbsp;&nbsp;
 <p>
 <p align="center">
-.&nbsp;　　✦⠀　   　　　,　　　　c&nbsp;&nbsp;&nbsp;&nbsp;python　　　　　*　　　　　⠀　　　　⠀　
+&nbsp;&nbsp;&nbsp;‧&nbsp;˚&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭒&nbsp;bash&nbsp;&nbsp;linux&nbsp;&nbsp;haskell&nbsp;&nbsp;⭒&nbsp;&nbsp;❀&nbsp;⋆°&nbsp;⋆&nbsp;&nbsp;&nbsp;
 <p>
 <p align="center">
-　,⠀⠀⠀&nbsp;⠀⠀⠀⠀⠀⠀⠀⠀bash&nbsp;&nbsp;linux&nbsp;&nbsp;haskell.　　　　　 　　⠀　　　⠀
+&nbsp;&nbsp;⭒⭒&nbsp;&nbsp;&nbsp;₊&nbsp;c++&nbsp;&nbsp;&nbsp;&nbsp;vhdl&nbsp;&nbsp;&nbsp;&nbsp;math+algorithms&nbsp;&nbsp;&nbsp;❀‧&nbsp;&nbsp;⭒&nbsp;
 <p>
 <p align="center">
-.　&nbsp;　　˚　　　c++&nbsp;&nbsp;&nbsp;&nbsp;vhdl&nbsp;&nbsp;&nbsp;&nbsp;math+algorithms⠀　⠀  　　,　
+⭒&nbsp;°&nbsp;&nbsp;⋆&nbsp;&nbsp;&nbsp;&nbsp;˚❀html+css&nbsp;&nbsp;&nbsp;&nbsp;common&nbsp;lisp&nbsp;&nbsp;˚₊⭒&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;₊&nbsp;
 <p>
 <p align="center">
-　　　　　.　　　　　　html+css&nbsp;&nbsp;&nbsp;&nbsp;common&nbsp;lisp　　　　　　　.　　　　
+⋆&nbsp;&nbsp;&nbsp;⭒&nbsp;&nbsp;❀&nbsp;&nbsp;&nbsp;&nbsp;₊&nbsp;&nbsp;&nbsp;⭒&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭒&nbsp;˚&nbsp;&nbsp;°&nbsp;&nbsp;₊&nbsp;&nbsp;&nbsp;₊&nbsp;
 <p>
 <p align="center">
-　　*⠀　　⠀  　　　　　⠀✦⠀　　　　　　　*　　　　　　　　　　　　　　　　　　.　　　　
+&nbsp;&nbsp;❀&nbsp;₊&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;˚₊⭒&nbsp;&nbsp;&nbsp;‧&nbsp;⋆&nbsp;⊹&nbsp;&nbsp;&nbsp;‧⭒&nbsp;&nbsp;⋆&nbsp;₊&nbsp;&nbsp;⊹&nbsp;°&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
 <p align="center">
-.　　　　.　　　⠀　　　　　　　　　　　.　　　　　　　　　　˚　　　　　　　　ﾟ　　　　　.
-<p>
-<p align="center">
-　.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,
+&nbsp;&nbsp;₊⋆⊹&nbsp;&nbsp;˚&nbsp;&nbsp;&nbsp;❀⭒&nbsp;⭒&nbsp;&nbsp;&nbsp;&nbsp;❀&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;°❀&nbsp;&nbsp;&nbsp;&nbsp;°&nbsp;˚&nbsp;⭒⋆⋆&nbsp;❀❀&nbsp;&nbsp;❀&nbsp;&nbsp;❀
 <p>
