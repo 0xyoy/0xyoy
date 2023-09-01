@@ -1,8 +1,12 @@
-
 <p align="center">
-  ```
-  hi there 2
-  ```
+  ✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧
+.・゜゜・　　・゜゜・．
+｡･ﾟﾟ･　　             ･ﾟﾟ･｡
+  ```computer sorceress```
+    ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
+　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　　　.　　. 　 ˚　.　　　　 　　 　　　　        ੈ✧̣̇˳·˖✶   ✦　　
+   
+
 </p>
 <!--
 **0xyoy/0xyoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
