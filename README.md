@@ -2,13 +2,13 @@
   ✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧
 </p>  
 <p align="center">
-.・゜゜・　　・゜゜・．
+.・゜゜・ computer sorceress　・゜゜・．
 </p>
 <p align="center">
-｡･ﾟﾟ･　　             ･ﾟﾟ･｡
+｡･ﾟﾟ･ lambda princess ･ﾟﾟ･｡
 </p>
 <p align="center">
-  computer sorceress
+  
 </p>
 <p align="center">
   ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
