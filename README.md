@@ -1,4 +1,4 @@
-```
+
 <p align="center">
 hi there 2
 </p>
@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
