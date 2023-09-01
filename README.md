@@ -2,7 +2,7 @@
   ✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧
 </p>  
 <p align="center">
-.・゜゜・ computer sorceress　・゜゜・．
+.・゜゜・ computer sorceress ・゜゜・．
 </p>
 <p align="center">
 ｡･ﾟﾟ･ lambda princess ･ﾟﾟ･｡
