@@ -41,7 +41,3 @@
 <p align="center">
 im real and beautiful
 <p>
-
-<p align="center">
-brokenlove.online
-<p>
